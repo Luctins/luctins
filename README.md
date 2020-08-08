@@ -24,5 +24,5 @@ Currently I work for <a href="https://www.macnicadhw.com.br/">MacnicaDHW</a> as 
 * C++ (STD 17) - lambdas + macros > lambdas > macros
 * C - good, old and a nice way to shoot yourself in the foot.
 * LaTeX - use it a lot for documentation stuff and also with emacs's orgmode for ease of use
-* Rust - really like it but I still haven't found time to learn it properly (great thanks to <a href="https://github.com/kroltan>@kroltan</a> for introducing it to me)
+* Rust - really like it but I still haven't found time to learn it properly (great thanks to <a href="https://github.com/kroltan">@kroltan</a> for introducing it to me)
 

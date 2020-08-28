@@ -6,14 +6,6 @@ Atualmente trabalho na <a href="https://www.macnicadhw.com.br/">MacnicaDHW</a> c
 ## EN
 Currently I work for <a href="https://www.macnicadhw.com.br/">MacnicaDHW</a> as a firmware developer, working mostly with custom Hardware platforms such as NIOSII, custom ARM Boards and projects with ESP32 (Just the chip).
 
-# Contatos/Contact:
-## Email:
-* contact@luctins.me
-
-## Social
-* <a href="https://www.linkedin.com/in/lucas-m-b67111121/">linkedin</a>
-* <a href="https://twitter.com/luctuns">@luctuns</a>
-
 # Favorite Stuff
 ## Tools
 * <a href="https://pop.system76.com/">Pop!OS</a> - overall great ubuntu derivative 
@@ -25,4 +17,12 @@ Currently I work for <a href="https://www.macnicadhw.com.br/">MacnicaDHW</a> as 
 * C - good, old and a nice way to shoot yourself in the foot.
 * LaTeX - use it a lot for documentation stuff and also with emacs's orgmode for ease of use
 * Rust - really like it but I still haven't found time to learn it properly (great thanks to <a href="https://github.com/kroltan">@kroltan</a> for introducing it to me)
+
+# Contatos/Contact:
+## Email:
+* contact@luctins.me
+
+## Social
+* <a href="https://www.linkedin.com/in/lucas-m-b67111121/">linkedin</a>
+* <a href="https://twitter.com/luctuns">@luctuns</a>
 

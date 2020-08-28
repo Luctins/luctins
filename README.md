@@ -8,12 +8,12 @@ Currently I work for <a href="https://www.macnicadhw.com.br/">MacnicaDHW</a> as 
 
 # Contatos/Contact:
 ## Email:
-* lucas.martinsmendes@gmail.com
-* lucas.mendes@macnicadhw.com.br
+* contact@luctins.me
 
 ## Social
 * <a href="https://www.linkedin.com/in/lucas-m-b67111121/">linkedin</a>
 * <a href="https://twitter.com/luctuns">@luctuns</a>
+
 # Favorite Stuff
 ## Tools
 * <a href="https://pop.system76.com/">Pop!OS</a> - overall great ubuntu derivative 

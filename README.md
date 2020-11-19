@@ -8,7 +8,7 @@ Currently I work for <a href="https://www.macnicadhw.com.br/">MacnicaDHW</a> as 
 
 # Favorite Stuff
 ## Tools
-* <a href="https://pop.system76.com/">Pop!OS</a> - overall great ubuntu derivative 
+* <a href="https://pop.system76.com/">Pop!OS</a> - overall nice ubuntu derivative 
 * <a href="https://www.spacemacs.org/">spacemacs</a> - like emacs, but better
 * <a href="https://espanso.org/">espanso</a> - great multiplataform text expander under active development
 ## Languages

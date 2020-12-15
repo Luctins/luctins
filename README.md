@@ -29,7 +29,7 @@ Currently I work for <a href="https://www.macnicadhw.com.br/">MacnicaDHW</a> as 
 * contact@luctins.me
 
 ## Personal Website
-* luctins.me (for now it just points back here)
+* http://luctins.me (for now it just points back here)
 ## Social
 * <a href="https://www.linkedin.com/in/lucas-m-b67111121/">linkedin</a>
 * <a href="https://twitter.com/luctuns">@luctuns</a>

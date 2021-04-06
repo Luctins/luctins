@@ -23,6 +23,7 @@ Currently I work for <a href="https://www.macnicadhw.com.br/">MacnicaDHW</a> as 
 * C - good, fast and dangerous.
 * LaTeX - use it a lot for documentation stuff and also with emacs's orgmode for ease of use
 * Rust - really like it but I still haven't found time to learn it properly (great thanks to <a href="https://github.com/kroltan">@kroltan</a> for introducing it to me)
+* Python - usefull to do quick iterations on some idea before optimizing it and doing things that bash isn't good at doing. 
 
 # Contatos/Contact:
 ## Email:

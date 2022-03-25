@@ -19,10 +19,11 @@ Currently I work for <a href="https://www.macnicadhw.com.br/">MacnicaDHW</a> as 
 <img src="https://raw.githubusercontent.com/Luctins/luctins/master/lisp-the-princess.png"> 
 
 <a href="https://www.toggl.com/programming-princess/">credit</a>
-* C++ (STD 17) - lambdas + macros > lambdas > macros
+* Rust - really like it and have been using it for everything that I can (thanks to <a href="https://github.com/kroltan">@kroltan</a> for introducing it to me)
+* C++ (STD 17) - lambdas & macros!
 * C - good, fast and dangerous.
 * LaTeX - use it a lot for documentation stuff and also with emacs's orgmode for ease of use
-* Rust - really like it but I still don't have much use for it in my current line of work (great thanks to <a href="https://github.com/kroltan">@kroltan</a> for introducing it to me)
+
 * Python - usefull to do quick iterations on some idea before optimizing it and doing things that bash isn't good at doing. 
 
 # Contatos/Contact:

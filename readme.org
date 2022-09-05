@@ -25,7 +25,9 @@ Currently I work for [[https://www.macnicadhw.com.br/][MacnicaDHW]] as a firmwar
 + Lisp - because emacs 🙃
 
 [[./img/lisp-the-princess.png]]
-[[https://www.toggl.com/programming-princess/"][source]]
+
+[[https://www.toggl.com/programming-princess/][source]]
+
 + Rust - really like it and have been using it for everything that I can (thanks to [[https://github.com/kroltan][@kroltan]] for introducing it to me)
 + C++ (STD 17) - lambdas & macros!
 + C - good, fast and dangerous.

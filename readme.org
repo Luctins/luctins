@@ -20,7 +20,7 @@ Currently I work for [[https://www.macnicadhw.com.br/][MacnicaDHW]] as a firmwar
 + [[https://www.spacemacs.org/][spacemacs]] - emacs community distribution, thanks to [[https://github.com/RGNagel][@rgnagel]] for introducing emacs and it to me
 + [[https://espanso.org/][espanso]] - great multiplataform text expander under active development
 + zsh with [[https://github.com/ohmyzsh/ohmyzsh][oh-my-zsh]] styled with [[https://github.com/romkatv/powerlevel10k][powerlevel10K]] inside tmux with [[https://github.com/gpakosz/.tmux][oh-my-tmux]]
-+ [[https://github.com/alacritty/alacritty][Alacritty]] - clean, customizable and **gpu accelerated** shell
++ [[https://github.com/alacritty/alacritty][Alacritty]] - clean, customizable and /gpu accelerated/ shell
 ** Languages
 + Lisp - because emacs 🙃
 
@@ -28,10 +28,10 @@ Currently I work for [[https://www.macnicadhw.com.br/][MacnicaDHW]] as a firmwar
 
 [[https://www.toggl.com/programming-princess/][source]]
 
-+ Rust - really like it and have been using it for everything that I can (thanks to [[https://github.com/kroltan][@kroltan]] for introducing it to me)
-+ C++ (STD 17) - lambdas & macros!
-+ C - good, fast and dangerous.
++ Rust - really like it and have been using it for just about _everything_ that I can (thanks to [[https://github.com/kroltan][@kroltan]] for introducing it to me!)
 + LaTeX - use it a lot for documentation stuff and also with emacs's orgmode for ease of use
++ C - good, fast and dangerous.
+
 
 + Python - usefull to do quick iterations on some idea before optimizing it and doing things that bash isn't good at doing.
 

@@ -15,8 +15,10 @@ Atualmente trabalho na [[https://www.macnicadhw.com.br/][MacnicaDHW]] como desen
 Currently I work for [[https://www.macnicadhw.com.br/][MacnicaDHW]] as a firmware developer, working mostly with custom Hardware platforms such as NIOSII, custom ARM Boards and ESP32.
 
 * Favorite Stuff
+** Linux Distro
+
 ** Tools
-+ [[https://pop.system76.com/][Pop!OS]] - overall nice ubuntu derivative
++ [[https://getfedora.org/][Fedora]] - Rock solid.
 + [[https://www.spacemacs.org/][spacemacs]] - emacs community distribution, thanks to [[https://github.com/RGNagel][@rgnagel]] for introducing emacs and it to me
 + [[https://espanso.org/][espanso]] - great multiplataform text expander under active development
 + zsh with [[https://github.com/ohmyzsh/ohmyzsh][oh-my-zsh]] styled with [[https://github.com/romkatv/powerlevel10k][powerlevel10K]] inside tmux with [[https://github.com/gpakosz/.tmux][oh-my-tmux]]

@@ -38,8 +38,9 @@ Currently I work for [[https://www.macnicadhw.com.br/][MacnicaDHW]] as a firmwar
 * Contatos/Contact
 ** Email:
 + [[mailto:contact@luctins.me][contact@luctins.me]]
+
 ** Personal Website
-+ http://luctins.me (Until I make a blog/personal website it just points back here)
++ http://blog.luctins.me
+
 ** Social
 + [[https://www.linkedin.com/in/lucas-m-b67111121/][linkedin]]
-+ [[https://twitter.com/luctuns][@luctuns]]
